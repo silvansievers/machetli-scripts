@@ -1,5 +1,5 @@
 - this dir was originaly under ~/machetli
-- the .venv used whatever version of machetli one got on or briefly prior to 22.09.2022
+- the .venv used whatever version of machetli one got on or briefly prior to 22.09.2022 (likely 0.7)
 - the starting PDDl is parcprinter-opt11-strips:p01
 - resulting small tasks from testing back then in files small-*
 - probably, I started from PDDL, then translated this to SAS and tried to get the SAS even smaller
